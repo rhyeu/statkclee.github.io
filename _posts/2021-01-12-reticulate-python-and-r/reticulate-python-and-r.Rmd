@@ -1,13 +1,14 @@
 ---
-title: "reticulate-python-and-r"
+title: "Reticulate: R and Python"
 description: |
-  A short description of the post.
+  Korean has an issue.
 author:
-  - name: Kwangchun Lee
+  - name: "Kwangchun Lee"
 date: 01-12-2021
 output:
   distill::distill_article:
     self_contained: false
+    theme: tidyverse.css
 draft: false
 creative_commons: CC BY
 ---
@@ -17,8 +18,7 @@ creative_commons: CC BY
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. %>% 
+# R 그리고 파이썬
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+`reticulate`가 R과 파이썬을 연결하는 중요 연결통로다.
 

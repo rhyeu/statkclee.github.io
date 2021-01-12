@@ -6,27 +6,27 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-12T16:45:19+09:00"
+      "last_modified": "2021-01-12T17:51:34+09:00"
     },
     {
       "path": "index.html",
       "title": "Data Science in Korea",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-12T16:45:19+09:00"
+      "last_modified": "2021-01-12T17:51:34+09:00"
     },
     {
       "path": "README.html",
       "author": [],
       "contents": "",
-      "last_modified": "2021-01-12T16:45:21+09:00"
+      "last_modified": "2021-01-12T17:51:36+09:00"
     },
     {
       "path": "README.html",
       "title": "Data Science in Korea",
       "author": [],
       "contents": "",
-      "last_modified": "2021-01-12T16:45:21+09:00"
+      "last_modified": "2021-01-12T17:51:36+09:00"
     },
     {
       "path": "reticulate-python-and-r.html",
@@ -40,7 +40,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-12T16:45:20+09:00"
+      "last_modified": "2021-01-12T17:51:35+09:00"
     }
   ],
   "collections": ["posts/posts.json"]
