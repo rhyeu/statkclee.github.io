@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "path": "posts/2021-01-12-make-r-great-again/",
+    "title": "Make R Great Again",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Kwangchun Lee",
+        "url": "https://www.facebook.com/tidyverse"
+      }
+    ],
+    "date": "2021-01-12",
+    "categories": [],
+    "contents": "\r\n다시 R을 위대하게 !\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-12T17:16:41+09:00",
+    "input_file": "make-r-great-again.utf8.md"
+  },
+  {
+    "path": "posts/2021-01-12-reticulate-python-and-r/",
+    "title": "reticulate-python-and-r",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Kwangchun Lee",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-12",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web. %>%\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-12T17:18:26+09:00",
+    "input_file": "reticulate-python-and-r.utf8.md"
+  }
+]

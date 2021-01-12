@@ -3,11 +3,13 @@ title: "reticulate-python-and-r"
 description: |
   A short description of the post.
 author:
-  - name: Unknown
+  - name: Kwangchun Lee
 date: 01-12-2021
 output:
   distill::distill_article:
     self_contained: false
+draft: false
+creative_commons: CC BY
 ---
 
 
@@ -15,7 +17,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+Distill is a publication format for scientific and technical writing, native to the web. %>% 
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
