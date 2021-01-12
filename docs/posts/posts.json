@@ -2,18 +2,17 @@
   {
     "path": "posts/2021-01-12-make-r-great-again/",
     "title": "Make R Great Again",
-    "description": "A short description of the post.",
+    "description": "다시 R을 위대하게 !!!",
     "author": [
       {
-        "name": "Kwangchun Lee",
+        "name": "이광춘",
         "url": "https://www.facebook.com/tidyverse"
       }
     ],
     "date": "2021-01-12",
     "categories": [],
-    "contents": "\r\n다시 R을 위대하게 !\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-12T17:16:41+09:00",
+    "last_modified": "2021-01-12T18:00:48+09:00",
     "input_file": {}
   },
   {
@@ -28,9 +27,8 @@
     ],
     "date": "2021-01-12",
     "categories": [],
-    "contents": "\r\nR 그리고 파이썬\r\nreticulate가 R과 파이썬을 연결하는 중요 연결통로다.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-12T17:51:25+09:00",
+    "last_modified": "2021-01-12T17:59:46+09:00",
     "input_file": {}
   }
 ]

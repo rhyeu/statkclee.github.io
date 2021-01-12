@@ -1,9 +1,9 @@
 ---
 title: "Make R Great Again"
 description: |
-  A short description of the post.
+  다시 R을 위대하게 !!!
 author:
-  - name: Kwangchun Lee
+  - name: 이광춘
     url: https://www.facebook.com/tidyverse
 date: 01-12-2021
 output:
