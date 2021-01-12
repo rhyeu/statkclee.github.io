@@ -1,0 +1,22 @@
+---
+title: "Make R Great Again"
+description: |
+  A short description of the post.
+author:
+  - name: Kwangchun Lee
+    url: https://www.facebook.com/tidyverse
+date: 01-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+creative_commons: CC BY
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+다시 R을 위대하게 !
+
